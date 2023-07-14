@@ -15,7 +15,7 @@ import BackgroundColorWrapper from "./components/BackgroundColorWrapper/Backgrou
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-// we render 
+//we render 
 root.render(
   <ThemeContextWrapper>
     <BackgroundColorWrapper>
