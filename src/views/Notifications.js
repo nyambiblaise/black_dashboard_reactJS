@@ -28,6 +28,7 @@ function Notifications() {
       case 2:
         type = "success";
         break;
+        
       case 3:
         type = "danger";
         break;
