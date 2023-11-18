@@ -19,7 +19,7 @@
     "reactstrap": "8.7.1",
     "sass": "1.53.0"
   },
-  "scripts": {
+  "scripts":{
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
     "test": "react-scripts test --env=jsdom",
